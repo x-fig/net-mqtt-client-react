@@ -1,12 +1,12 @@
 {
-    "name": "binsoul/net-mqtt-client-react",
+    "name": "x-fig/net-mqtt-client-react",
     "description": "Asynchronous MQTT client built on React",
     "keywords": [
         "net",
         "mqtt",
         "client"
     ],
-    "homepage": "https://github.com/binsoul/net-mqtt-client-react",
+    "homepage": "https://github.com/x-fig/net-mqtt-client-react",
     "license": "MIT",
     "authors": [
         {
